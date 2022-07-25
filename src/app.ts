@@ -1,0 +1,1 @@
+console.log('Arquivo de testes. Pode mexer como quiser.');
